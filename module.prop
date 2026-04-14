@@ -1,0 +1,7 @@
+id=gaming_turbo_panel
+name=Gaming Turbo Panel
+version=1.0
+versionCode=1
+author=Johnjk-mk
+description=Real-time FPS and Thermal monitoring for PUBG.
+axeronPlugin=10400
